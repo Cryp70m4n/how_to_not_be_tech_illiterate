@@ -85,9 +85,9 @@ This topic is the in which most people either don't care at all or pay full atte
 <br>
 
 # THE FINAL WORD
-YOU SHOULD NEVER CONSIDER YOURSELF AS THE ONE WHO IS BETTER THEN EVERYONE AND THAT YOU KNOW EVERYTHING IT IS NOT THE BLAME TO ASK A BASIC QUESTION AND IF YOU ALWAYS PRETEND THAT YOU KNOW SOMETHING YOU DON'T YOU WILL NEVER LEARN SOMETHING!
+- YOU SHOULD NEVER CONSIDER YOURSELF AS THE ONE WHO IS BETTER THAN EVERYONE AND THAT YOU KNOW EVERYTHING IT IS NOT THE BLAME TO ASK A BASIC QUESTION AND IF YOU ALWAYS PRETEND THAT YOU KNOW SOMETHING YOU DON'T YOU WILL NEVER LEARN SOMETHING!
 <br>
 <br>
 
 # END
-This is pretty much the end of this little guide at least for now, I will maybe update as time pass but for now that's it, I hope you learned something new :D.
+-- This is pretty much the end of this little guide at least for now, I will maybe update as time pass but for now that's it, I hope you learned something new :D.
