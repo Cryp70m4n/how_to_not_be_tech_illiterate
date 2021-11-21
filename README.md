@@ -1,7 +1,6 @@
 # How to not be tech illiterate
 How to not be tech illiterate guide (handbook)
 
-## How to not be tech illiterate?
 
 # CHAPTER 1 - Operating systems
 First of all we will start with the sweetest operating systems, after reading this you will easly be able to recognise someone who actually knows sosmething about modern tech literature and someone who doesn't know anything.
