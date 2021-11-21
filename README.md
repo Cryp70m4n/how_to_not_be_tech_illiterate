@@ -90,4 +90,4 @@ This topic is the in which most people either don't care at all or pay full atte
 <br>
 
 # END
--- This is pretty much the end of this little guide at least for now, I will maybe update as time pass but for now that's it, I hope you learned something new :D.
+--> This is pretty much the end of this little guide at least for now, I will maybe update as time pass but for now that's it, I hope you learned something new :D.
