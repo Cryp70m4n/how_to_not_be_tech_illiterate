@@ -20,7 +20,7 @@ Debian, Arch, Gentoo or LFS <---- Linux distros be aware that every distro has i
 <br>
 You should also try FreeBSD or OpenBSD.
 <br>
-Ubuntu has spyware built-in so I wouldn't recommend using but you can always give it a shot.
+Ubuntu has spyware built-in so I wouldn't recommend using it but you can always give it a try.
 <br>
 At the end you can use any OS you like even Windows or some OS you find on github or 4chan as long as you understand it's pros and cons and you are not being an extremist.
 <br>
