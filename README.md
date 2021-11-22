@@ -70,7 +70,7 @@ This is the part where most people fail and proof that they have complex and tha
 <br>
 You should never get into an serious online argument or try to flashcard someone (You can do this sometimes but you should not do this on your daily bases).
 <br>
-You should always attempt to help beginners with out making fun out of them if they are looking to learn and you should always be kind and nice to everyone, if you had a bad day I strongly don't recommend you going into tech communities because opinions in this field are really different and people in community has a different sets of experience and skills and you can easly get pissed off even more.
+You should always attempt to help beginners with out making fun out of them if they are looking to learn and you should always be kind and nice to everyone, if you had a bad day I strongly don't recommend you going into tech communities because opinions in this field are really different and people in community has a different experience and skills and you can easly get pissed off even more.
 <br>
 If someone is really skilled but being toxic you should just go away from him, its better to have someone kind and polite with your skill level or even smalller skill level around you then having a toxic professional.
 <br>
