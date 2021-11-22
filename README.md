@@ -38,7 +38,7 @@ What do I recommend? I would recommend you trying DWM or some similar window man
 <br>
 Browser? Sadly today we don't have an browser which we can call "perfect" every browser misses at least something, for example firefox and chromium are not lightweight enough and sometimes both of them has weird erros, browsers such as lynx, qutebrowser and w3m are cool but all of them miss at least one thing that browser needs, I personally use chromium but you can choose whatever you want.
 <br>
-Why window manager instead of dekstop enviorment such as XFCE4? Because after sometime you will get used to window manager you will do things way faster than you do with your desktop.
+Why window manager instead of dekstop enviorment such as XFCE4? Because after sometime you will get used to window manager and then you will do things way faster than you do with your desktop.
 <br>
 
 # xorg vs wayland
