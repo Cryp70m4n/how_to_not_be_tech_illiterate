@@ -3,13 +3,13 @@ How to not be tech illiterate guide (handbook)
 
 
 # CHAPTER 1 - Operating systems
-First of all we will start with the sweetest operating systems, after reading this you will easly be able to recognise someone who actually knows sosmething about modern tech literature and someone who doesn't know anything.
+First of all we will start with the sweetest operating systems, after reading this you will easily be able to recognise someone who actually knows sosmething about modern tech literature and someone who doesn't know anything.
 <br>
 <br>
 Let's make things clear first and make a difference between an extremist(a retard) and an tech educated person:
 <br>
 Extremist - Windows is garbage there is nothing good about windows, microsoft made it, its complete trash and you should switch to linux.
-Tech educated person - Linux is better then windows because it gives you freedom, you can easly customise it and it's not bloated (as long as you don't make it bloated), but if you are using windows that's fine. (You can always make a joke as long as it's just a joke not serious opinion).
+Tech educated person - Linux is better than windows because it gives you freedom, you can easily customise it and it's not bloated (as long as you don't make it bloated), but if you are using windows that's fine. (You can always make a joke as long as it's just a joke not serious opinion).
 <br>
 <br>
 So now the second main question comes which OS should I use?
@@ -38,7 +38,7 @@ What do I recommend? I would recommend you trying DWM or some similar window man
 <br>
 Browser? Sadly today we don't have an browser which we can call "perfect" every browser misses at least something, for example firefox and chromium are not lightweight enough and sometimes both of them has weird erros, browsers such as lynx, qutebrowser and w3m are cool but all of them miss at least one thing that browser needs, I personally use chromium but you can choose whatever you want.
 <br>
-WHy window manager instead of dekstop enviorment such as XFCE4? Because after sometime you will get used to window manager you will do things way faster then you do with your desktop.
+WHy window manager instead of dekstop enviorment such as XFCE4? Because after sometime you will get used to window manager you will do things way faster than you do with your desktop.
 <br>
 
 # xorg vs wayland
