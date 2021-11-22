@@ -34,7 +34,7 @@ I will make things clear here from the begining and I will focus on linux here
 <br>
 You should never bloat your system with some stupid things such as GNOME, KDE,... and other stupid things instead you should consider trying lightweight and free software and replace all the bloat you possibly can, of course you should not be an extremist here too and claim that everyone who use bloated software is a retard, I met lots of people who are very good with tech but still use blaoted software.
 <br>
-What do I recommend? I would recommend you trying DWM or some similar window manager my personal preference is dwm + dmenu + st with patches, of course you can use some other software but this is the one I enjoy the most, you should replace LibreOFFICE with Onlyoffice or someother softwawre such as zathura, you should use feh for images, you should consider using vim or emaces with plugins.
+What do I recommend? I would recommend you trying DWM or some similar window manager my personal preference is dwm + dmenu + st with patches, of course you can use some other software but this is the one I enjoy the most, you should replace LibreOFFICE with Onlyoffice or someother softwawre such as zathura, you should use feh for images, you should consider using vim or emacs with plugins.
 <br>
 Browser? Sadly today we don't have an browser which we can call "perfect" every browser misses at least something, for example firefox and chromium are not lightweight enough and sometimes both of them has weird erros, browsers such as lynx, qutebrowser and w3m are cool but all of them miss at least one thing that browser needs, I personally use chromium but you can choose whatever you want.
 <br>
