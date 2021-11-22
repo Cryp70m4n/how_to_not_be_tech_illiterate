@@ -32,7 +32,7 @@ One of topics where everyone has different opinion, I personally recommend you t
 # CHAPTER 2 - Software
 I will make things clear here from the begining and I will focus on linux here
 <br>
-You should never bloat your system with some stupid things such as GNOME, KDE,... and other stupid things instead you should consider trying lightweight and free software and replace all the bloat you possibly can, of course you should not be an extremist here too and claim that everyone who use bloated software is a retard, I met lots of people who are very good with tech but still use blaoted software.
+You should never bloat your system with some stupid things such as GNOME, KDE,... and other stupid things instead you should consider trying lightweight and free software and replace all the bloat you possibly can, of course you should not be an extremist here too and claim that everyone who use bloated software is a retard, I met lots of people who are very good with tech but still use bloated software.
 <br>
 What do I recommend? I would recommend you trying DWM or some similar window manager my personal preference is dwm + dmenu + st with patches, of course you can use some other software but this is the one I enjoy the most, you should replace LibreOFFICE with Onlyoffice or someother softwawre such as zathura, you should use feh for images, you should consider using vim or emacs with plugins.
 <br>
